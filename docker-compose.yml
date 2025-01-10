@@ -141,6 +141,10 @@ services:
       - niffler-network
     dns_search: .
 
+volumes:
+  pgdata:
+    external: true
+
 networks:
   niffler-network:
     driver: bridge

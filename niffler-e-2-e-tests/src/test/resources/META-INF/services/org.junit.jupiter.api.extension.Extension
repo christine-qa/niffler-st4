@@ -1,2 +1,1 @@
-guru.qa.niffler.jupiter.extension.EmfExtension
-guru.qa.niffler.jupiter.extension.ServerLogsExtension
+guru.qa.niffler.jupiter.extension.JpaExtension
